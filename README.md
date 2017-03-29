@@ -1,11 +1,5 @@
 Example # Ecommerce-MusicStore
 ================================
-
-
-The article: [http://kielczewski.eu/2014/04/developing-restful-web-service-with-spring-boot/]
-(http://kielczewski.eu/2014/04/developing-restful-web-service-with-spring-boot/)
-
-
 Requirements
 ------------
 * [Java Platform (JDK) 7]
