@@ -1,3 +1,4 @@
+
 7Example # Ecommerce-MusicStore
 ================================
 Requirements
@@ -18,6 +19,7 @@ STS 3.8.3
 Maven 3
 Bootstrap 3
 Hibernate 4.0.1
+Angular.JS
 
 Quick start
 -----------
