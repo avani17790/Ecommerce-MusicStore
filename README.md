@@ -1,4 +1,4 @@
-Example # Ecommerce-MusicStore
+7Example # Ecommerce-MusicStore
 ================================
 Requirements
 ------------
@@ -13,7 +13,7 @@ Requirements
 
 Technologies used :
 Spring 4.1.4
-JDK 1.8
+JDK 1.7
 STS 3.8.3
 Maven 3
 Bootstrap 3
